@@ -1,6 +1,6 @@
 # Sentiment-Analysis-ML.Net 
 
-You can clone this repo and run the project in Visual Studio
+You can clone this repository and run the project in Visual Studio
 
 
 
@@ -8,7 +8,7 @@ You can clone this repo and run the project in Visual Studio
 
 Binairy Classification
 
-Detects whether a review is positive or negative
+Detects sentiment
 
 Can be trained on a additional data
 
