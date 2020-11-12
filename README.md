@@ -8,7 +8,7 @@ You can clone this repo and run the project in Visual Studio
 
 Binairy Classification
 
-Detectes whether a review is positive or negative
+Detects whether a review is positive or negative
 
 Can be trained on a additional data
 
