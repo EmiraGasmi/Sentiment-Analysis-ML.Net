@@ -1,0 +1,11 @@
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\bin\Debug\netcoreapp2.2\DotNetMachineLearningApp.deps.json
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\bin\Debug\netcoreapp2.2\DotNetMachineLearningApp.runtimeconfig.json
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\bin\Debug\netcoreapp2.2\DotNetMachineLearningApp.runtimeconfig.dev.json
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\bin\Debug\netcoreapp2.2\DotNetMachineLearningApp.dll
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\obj\Debug\netcoreapp2.2\DotNetMachineLearningApp.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\obj\Debug\netcoreapp2.2\DotNetMachineLearningApp.AssemblyInfoInputs.cache
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\obj\Debug\netcoreapp2.2\DotNetMachineLearningApp.AssemblyInfo.cs
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\bin\Debug\netcoreapp2.2\DotNetMachineLearningApp.pdb
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\obj\Debug\netcoreapp2.2\DotNetMachineLearningApp.dll
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\obj\Debug\netcoreapp2.2\DotNetMachineLearningApp.pdb
+D:\Projects\source\repos\DotNetMachineLearningApp\DotNetMachineLearningApp\obj\Debug\netcoreapp2.2\DotNetMachineLearningApp.csprojAssemblyReference.cache
